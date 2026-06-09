@@ -1,0 +1,30 @@
+
+Dataset (CSV)
+      │
+      ▼
+   Pandas
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+NumPy Calculations
+      │
+      ▼
+Scikit-Learn
+(Train/Test Split)
+      │
+      ▼
+Random Forest Regressor
+      │
+      ▼
+Model Evaluation
+(MAE, RMSE, R²)
+      │
+      ▼
+Matplotlib
+(Visualization)
+      │
+      ▼
+Joblib
+(Model Saving)
